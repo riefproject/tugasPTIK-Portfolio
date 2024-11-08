@@ -1,4 +1,4 @@
-Lihat Halaman? [Klik di sini.](riefproject.github.io/tugasPTIK-Portfolio)
+Lihat Halaman? [Klik di sini.](https://riefproject.github.io/tugasPTIK-Portfolio)
 
 # Portfolio Website
 
