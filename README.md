@@ -36,7 +36,6 @@ web/
 -   **CSS3** - Styling dan responsive design
 -   **JavaScript** - Interaktivitas dan sticky navigation
 -   **Dependencies:**
-    -   Font Awesome 5.15.2 (CDN)
     -   Boxicons (CDN)
 
 ## Cara Pengembangan
